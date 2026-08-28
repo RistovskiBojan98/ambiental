@@ -372,3 +372,4 @@ The project avoids data leakage by preserving time order, creating targets with
 future shifts only, selecting tsfresh features on the training split, and
 deriving alert thresholds from training data for advanced evaluation.
 
+# ambiental
